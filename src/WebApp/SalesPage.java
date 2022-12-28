@@ -6,4 +6,6 @@ public class SalesPage {
 
     //...
 
+    // more sales added
+
 }
